@@ -1,0 +1,30 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Sad Electronics KiCad Library",
+    "description": "All sorts of custom Symbols and footprints ",
+    "description_full": "WIP",
+    "identifier": "com.github.sad-electronics.sad_electronics_kicad-lib",
+    "type": "library",
+    "author": {
+        "name": "Sad Electronics",
+        "contact": {
+            "web": "https://github.com/sad-electronics/"
+        }
+    },
+    "license": "TBD",
+    "resources": {
+        "github": "https://github.com/sad-electronics/sad_electronics_kicad-lib"
+    },
+    "tags": [
+        "footprints",
+        "symbols",
+        "modules"
+    ],
+    "versions": [
+        {
+            "version": "0.1",
+            "status": "stable",
+            "kicad_version": "7.0"
+        }
+    ]
+}
